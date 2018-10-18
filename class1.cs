@@ -8,6 +8,8 @@ namespace $safeprojectname$
 {
     public class Class1
     {
- 	aksdfafas;klda;sldjas;kl;
+	int a;
+	a=365;
+	return 0;
     }
 }
