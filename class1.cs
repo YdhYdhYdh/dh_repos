@@ -8,5 +8,6 @@ namespace $safeprojectname$
 {
     public class Class1
     {
+ 	aksdfafas;klda;sldjas;kl;
     }
 }
