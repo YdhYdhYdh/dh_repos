@@ -11,5 +11,6 @@ namespace $safeprojectname$
 	int a;
 	a=365;
 	return 0;
+	    //수정되었음.
     }
 }
